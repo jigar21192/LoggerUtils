@@ -1,0 +1,2 @@
+include ':app', ':loggerutils'
+rootProject.name='LoggerUtils'
